@@ -1,0 +1,6 @@
+The external packages required for running the bot in python are listed below.
+
+1. pandas
+2. requests
+
+note : every other packages used are in default available in a python interpreter.
